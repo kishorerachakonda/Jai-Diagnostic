@@ -1,0 +1,7 @@
+{
+  "name": "JAI Diagnostics",
+  "description": "A comprehensive multi-branch blood diagnostic management platform featuring real-time tracking, appointment scheduling, and AI-powered medical report insights.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
